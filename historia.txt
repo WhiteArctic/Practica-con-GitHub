@@ -1,0 +1,5 @@
+Esta es la historia de mi primer proyecto en git
+
+Soy Santiago y tengo 22 años
+
+Empieza el proyecto
